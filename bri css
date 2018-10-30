@@ -1,0 +1,50 @@
+
+}
+body {
+	font-family: "Poppins";
+}
+
+p {
+	padding-left: 150pt;
+	padding-right: 150pt;
+}
+
+h1 {
+    text-align: center;
+}
+
+.banner {
+    font-family: "Henny Penny";
+    text-align: center;
+}
+
+#header {
+    background-image: url("header.jpg");
+    background-size: cover;
+    display: block;
+    margin: auto;
+    width: auto;
+    height: 248px;
+    border-style: solid;
+    border-color: skyblue;
+    font-size: 60pt;
+    text-align: center;
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	text-align: center;
+}
+li {
+	display: inline;
+	width: 100%;
+	font-size: 24px;
+}
+li a {
+	text-decoration: none;
+	color: black;
+}
